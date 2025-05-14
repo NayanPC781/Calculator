@@ -31,7 +31,7 @@ You can view a live demo of the calculator [here](#) (add your demo link when av
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-calculator.git
+   https://github.com/NayanPC781/Calculator.git
    ```
 
 2. Navigate to the project directory:

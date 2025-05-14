@@ -36,7 +36,7 @@ You can view a live demo of the calculator [here](#) (add your demo link when av
 
 2. Navigate to the project directory:
    ```bash
-   cd modern-calculator
+   cd Calculator
    ```
 
 3. Open `index.html` in your preferred web browser.
